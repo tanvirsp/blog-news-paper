@@ -1,0 +1,19 @@
+.date {
+    margin-top: 7px;
+    display: flex;
+    align-items: center;
+}
+
+.date small {
+    font-size:  13px;
+    
+}
+
+
+.single-date svg {
+    font-size: 20px;
+}
+
+.single-date small {
+    font-size: 17px;
+}

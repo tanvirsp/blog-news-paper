@@ -1,0 +1,13 @@
+.news-card-two {
+    
+    padding: 10px 15px;
+   
+}
+
+.news-card-two:nth-child(4) {
+    padding-right: 0;
+}
+
+.news-card-two img {
+    width: 100%;
+}

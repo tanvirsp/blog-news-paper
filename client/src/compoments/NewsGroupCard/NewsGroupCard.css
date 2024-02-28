@@ -1,0 +1,32 @@
+.card-news-slider {
+    position: relative;
+
+}
+
+.card-news-slider .card-news-slider-info{
+    position: absolute;
+    z-index: 99;
+    left: 20px;
+    bottom: 25px;
+    color: white;
+}
+
+.card-news-slider-info h4 {
+    color: white;
+}
+
+
+.slider-overlay {
+    position: absolute;
+    z-index: 88;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.036), rgba(0, 0, 0, 0.6));
+}
+
+.card-news {
+    height: 370px;
+    overflow-y: scroll;
+}

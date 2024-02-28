@@ -1,0 +1,74 @@
+.logo {
+    height: 100px;
+    margin-bottom: 15px;
+}
+
+
+nav {
+    
+    background-color: #ED1C24;
+    /* height: 65px; */
+    margin-top: 16px;
+    
+
+    
+    
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1320px;
+    margin: 5px auto;
+}
+
+.nav-menu {
+    display: flex;
+}
+
+.nav-menu li a {
+    padding: 0px 15px;
+    line-height: 55px;
+    display: inline-block;
+    color: white;
+    font-size: 18px ;
+}
+
+.nav-menu li a:hover {
+    background-color: white;
+    color: #ED1C24
+}
+
+
+
+.social-link  {
+    display: flex;
+    color: white;
+}
+.social-link li a svg {
+    color: white;
+    font-size: 22px ;
+    margin: 5px;
+    cursor: pointer;
+
+}
+
+
+
+.user-link {
+    display: flex;
+}
+
+.user-link li svg {
+    color: white;
+    font-size: 20px ;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.user-link li:first-child svg {
+   
+    font-size: 24px ;
+    
+}

@@ -1,0 +1,17 @@
+.news-card-one {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid lightgray;
+    cursor: pointer;
+}
+
+.news-card-one:hover h5 {
+    color: #00a651;
+}
+
+.news-card-one-img img {
+    width: 115px;
+}
+
